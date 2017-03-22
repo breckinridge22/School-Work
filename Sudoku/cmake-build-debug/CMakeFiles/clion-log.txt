@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/BreckStodghill/Desktop/ProgrammingLanguages/Sudoku
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/BreckStodghill/Desktop/ProgrammingLanguages/Sudoku/cmake-build-debug

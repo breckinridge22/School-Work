@@ -1,0 +1,70 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/BreckStodghill/Desktop/ProgrammingLanguages/Date 2/Date.cpp
+ctime
+-
+iostream
+-
+sstream
+-
+string
+-
+stdlib.h
+-
+stdexcept
+-
+Date.h
+/Users/BreckStodghill/Desktop/ProgrammingLanguages/Date 2/Date.h
+
+/Users/BreckStodghill/Desktop/ProgrammingLanguages/Date 2/Date.h
+iostream
+-
+string
+-
+
+/Users/BreckStodghill/Desktop/ProgrammingLanguages/Date 2/P_Reminder.cpp
+P_Reminder.h
+/Users/BreckStodghill/Desktop/ProgrammingLanguages/Date 2/P_Reminder.h
+string
+-
+
+/Users/BreckStodghill/Desktop/ProgrammingLanguages/Date 2/P_Reminder.h
+Reminder.h
+/Users/BreckStodghill/Desktop/ProgrammingLanguages/Date 2/Reminder.h
+string
+-
+iostream
+-
+
+/Users/BreckStodghill/Desktop/ProgrammingLanguages/Date 2/Reminder.cpp
+Reminder.h
+/Users/BreckStodghill/Desktop/ProgrammingLanguages/Date 2/Reminder.h
+string
+-
+
+/Users/BreckStodghill/Desktop/ProgrammingLanguages/Date 2/Reminder.h
+Date.h
+/Users/BreckStodghill/Desktop/ProgrammingLanguages/Date 2/Date.h
+string
+-
+iostream
+-
+
+/Users/BreckStodghill/Desktop/ProgrammingLanguages/Date 2/test4.cpp
+iostream
+-
+cstdlib
+-
+Date.h
+/Users/BreckStodghill/Desktop/ProgrammingLanguages/Date 2/Date.h
+Reminder.h
+/Users/BreckStodghill/Desktop/ProgrammingLanguages/Date 2/Reminder.h
+P_Reminder.h
+/Users/BreckStodghill/Desktop/ProgrammingLanguages/Date 2/P_Reminder.h
+

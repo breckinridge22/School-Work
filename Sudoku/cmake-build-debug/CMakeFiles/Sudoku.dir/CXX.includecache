@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/BreckStodghill/Desktop/ProgrammingLanguages/Sudoku/Sudoku-driver.cpp
+iostream
+-
+string
+-
+time.h
+-
+Sudoku.h
+/Users/BreckStodghill/Desktop/ProgrammingLanguages/Sudoku/Sudoku.h
+
+/Users/BreckStodghill/Desktop/ProgrammingLanguages/Sudoku/Sudoku.cpp
+string
+-
+iostream
+-
+fstream
+-
+Sudoku.h
+/Users/BreckStodghill/Desktop/ProgrammingLanguages/Sudoku/Sudoku.h
+
+/Users/BreckStodghill/Desktop/ProgrammingLanguages/Sudoku/Sudoku.h
+string
+-
+

@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/BreckStodghill/Downloads/Date/Date.cpp
+ctime
+-
+iostream
+-
+sstream
+-
+string
+-
+stdlib.h
+-
+stdexcept
+-
+Date.h
+/Users/BreckStodghill/Downloads/Date/Date.h
+
+/Users/BreckStodghill/Downloads/Date/Date.h
+iostream
+-
+string
+-
+
+/Users/BreckStodghill/Downloads/Date/date-test.cpp
+iostream
+-
+Date.h
+/Users/BreckStodghill/Downloads/Date/Date.h
+

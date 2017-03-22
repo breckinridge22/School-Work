@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Sudoku.dir/Sudoku.cpp.o CMakeFiles/Sudoku.dir/Sudoku-driver.cpp.o  -o Sudoku 

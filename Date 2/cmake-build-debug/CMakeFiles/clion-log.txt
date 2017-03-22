@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -D CMAKE_C_COMPILER=clang -D CMAKE_CXX_COMPILER=clang++ -G "CodeBlocks - Unix Makefiles" "/Users/BreckStodghill/Desktop/ProgrammingLanguages/Date 2"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/BreckStodghill/Desktop/ProgrammingLanguages/Date 2/cmake-build-debug
